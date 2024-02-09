@@ -1,5 +1,4 @@
-
-
+ 
 ## Assessment
 Implement a  URL Shortner System
 
@@ -9,11 +8,11 @@ Implement a  URL Shortner System
 
 ## Installation
 
--  Clone the repository `git clone https://github.com/Arup-paul/aruppaul-assesment-task.git`
+-  Clone the repository `git clone https://github.com/Arup-paul/url-shortner.git`
 
 ## Install Backend
 
-- cd into the project directory `cd aruppaul-assesment-task/backend`
+- cd into the project directory `cd url-shortner`
 - Install the Composer dependencies `composer install`
 - Set Up .env File `cp .env.example .env`
 - Generate an application key: `php artisan key:generate`
@@ -28,14 +27,9 @@ Implement a  URL Shortner System
 -   Run Migrations `php artisan migrate`
 -   Start the Development Server `php artisan serve`
 
- 
+  
 
-
-
-## Install Frontend
-
-- cd into the project directory `cd aruppaul-assesment-task/frontend`
-- Set Up .env File `cp .env.example .env`
+## Install Frontend 
 - Install the npm dependencies `npm install`
 - Start the Development Server `npm start`
 
